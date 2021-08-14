@@ -2,6 +2,9 @@ public class Application {
 
     public static void main(String[] args) {
 
+        TwoDimensionalArrayExample twoDimensionalArrayExample = new TwoDimensionalArrayExample();
+        twoDimensionalArrayExample.creating2DArray();
+
         int[] array = new int[5];
 //        array[0] = 2;
 //        array[1] = 5;
